@@ -1,0 +1,3 @@
+docker-compose.yml
+./Backend_Libro/Backend_Libro/Backend_Libro/Dockerfile
+./FRONTED/libro/Dockerfile
